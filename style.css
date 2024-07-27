@@ -1,4 +1,18 @@
+:root{
+  font-family: "Open Sans", sans-serif;
+}
+
+#page{
+  width: 1140px;
+  padding: 40px;
+  margin: auto;
+}
+  
+
+
+
 img{
   border-radius: 28px;
 
 }
+
